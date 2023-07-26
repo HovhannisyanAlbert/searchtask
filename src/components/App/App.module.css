@@ -1,0 +1,9 @@
+.app {
+    width: 100%;
+    max-width: 1232px;
+    margin: auto;
+    display: flex;
+    padding: 23px 78px 12px;
+    background-color:white;
+    filter: drop-shadow(0 4px 27px rgba(230, 231, 234, 0.78));
+}

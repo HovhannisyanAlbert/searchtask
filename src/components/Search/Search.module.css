@@ -1,0 +1,31 @@
+.search {
+    display: flex;
+    
+  }
+
+  .inputSearch {
+    width: 631px;
+    height: 52px;
+    background-color: #5a5c66;
+    color:white;
+    font-size: 20px;
+    padding-left: 20px;
+    outline: none;
+    padding-right: 60px;
+    border:none;
+  }
+  
+  .searchImg {
+    position: relative;
+    right: 25px;
+    top: 10px;
+    cursor: pointer;
+  }
+  
+  
+  .inputSearch::placeholder {
+    color: #b2b7bf;
+  }
+  
+  
+  

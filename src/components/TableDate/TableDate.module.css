@@ -1,0 +1,29 @@
+.tableTitleText {
+    border: 1px solid #e3e6ec;
+    width: 500px;
+    height: 50px;
+    font-size: 13px;
+    color: #474955;
+    text-align: left;
+    padding: 8px;
+  }
+  
+
+  .tableiDDate {
+    border: 1px solid #e3e6ec;
+    width: 100px;
+    height: 100px;
+    color: #474955;
+    text-align: center;
+  }
+  
+
+  .tableBody {
+    border: 1px solid #e3e6ec;
+    width: 444px;
+    height: 50px;
+    font-size: 13px;
+    color: #474955;
+    text-align: left;
+    padding: 8px;
+  }

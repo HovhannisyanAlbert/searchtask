@@ -1,0 +1,41 @@
+.pagination {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0px 10px 0;
+    justify-content: space-between;
+    max-width: 1010px;
+    margin: auto;
+  }
+
+
+  .prevBtn {
+    border: none;
+    color: #474955;
+    background-color: white;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .nextBtn {
+    border: none;
+    color: #474955;
+    background-color: transparent;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .colorPageActive {
+    color: #7ebc3c;
+    font-size: 24px;
+  }
+  
+  .colorPage {
+    color: #474955;
+    font-size: 24px;
+  }
+  
+  .numbersPage {
+    display: flex;
+    gap: 10px;
+  }
